@@ -10,12 +10,12 @@ For [Free Code Camp](http://freecodecamp.com) - [Timestamp Microservice](http://
 3. If it does not contain a date or Unix timestamp, it returns null for those properties.
 
 ### Example
-https://timestamp-ms.herokuapp.com/December%2015,%15
+https://jeb-timestamp.herokuapp.com/December%2015,%15
 
-https://timestamp-ms.herokuapp.com/1450137600
+https://jeb-timestamp.herokuapp.com/1450137600
 
 ### Output
 { "unix": 1450137600, "natural": "December 15, 2015" }
 
 ### Live Site
-[TBA](tba)
+[https://jeb-timestamp.herokuapp.com/](https://jeb-timestamp.herokuapp.com/)
